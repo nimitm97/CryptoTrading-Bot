@@ -1,0 +1,11 @@
+{
+  "name": "coinview",
+  "version": "1.0.0",
+  "description": "* What is binance and how does it compare to other exchanges?  * Why crypto? Open on nights and weekends, learn new things by doing * wscat - connect to websocket from the command line * wss://stream.binance.com:9443/ws/btcusdt@trade * capture output to a file * connect to websocket from the Web / JavaScript * Lightweight Charts - create real-time candlestick chart similar to TradingView * UI for to check indicators (eg. RSI), configure values, configure alerts/nofications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
